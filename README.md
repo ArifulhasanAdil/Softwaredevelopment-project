@@ -1,3 +1,3 @@
 Adil
-(c223112).
-All about Software development lab report and tasks.
+(C223112).
+All about Software Development Lab Report and Tasks.
