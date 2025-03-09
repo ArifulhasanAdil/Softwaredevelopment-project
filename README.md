@@ -1,3 +1,3 @@
-I am adil
-c223112
-Software development lab report and tasks.
+Adil
+(c223112).
+All about Software development lab report and tasks.
